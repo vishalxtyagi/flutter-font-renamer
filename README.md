@@ -13,7 +13,6 @@ The Flutter Font Renamer is a Python script for renaming font files in bulk to m
 ## Table of Contents
 
 - [Getting Started](#getting-started)
-- [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -40,7 +39,7 @@ The Flutter Font Renamer is a Python script for renaming font files in bulk to m
    ```bash
    python font_renamer.py
 
-### Contributing
+## Contributing
 Contributions to this project are welcome. If you'd like to add new features, fix bugs, or improve documentation, please follow these steps:
 
 ### Fork the repository.
@@ -49,13 +48,13 @@ Contributions to this project are welcome. If you'd like to add new features, fi
   - Test your changes to ensure they work as expected.
   - Submit a pull request with a clear description of your changes.
 
-### License
+## License
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT)
 
-### Acknowledgments
+## Acknowledgments
 Special thanks to the Flutter and Android communities for their naming conventions and standards that this tool adheres to.
 
-### Contact
+## Contact
 If you have any questions or suggestions, feel free to contact us at vishaltyagi.9468@gmail.com.
 
 Happy font renaming!
